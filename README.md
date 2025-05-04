@@ -28,9 +28,9 @@ These repositories contain neural networks and deep learning systems built entir
 
 ---
 
-### Placement & Vision-Based Tools
+### Placement 
 
-These projects were developed through my research placement at Swinburne University — designed to be deployed in real-world settings or interfaced with physical hardware.
+These projects were developed through my research placement at Swinburne University — designed to be deployed in real-world settings.
 
 | Project | Summary                                                                                                                 |
 |--------|-------------------------------------------------------------------------------------------------------------------------|

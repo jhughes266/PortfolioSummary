@@ -54,6 +54,14 @@ Across these projects, I’ve built a hands-on understanding of:
 These projects reflect a commitment to understanding how things work at the lowest level, before reaching for abstraction.
 
 ---
+## Contact
+
+If you'd like to get in touch:
+
+- **Email:** 102107806@student.swin.edu.au **OR (Student email is preferred)** jhughes266@outlook.com
+- **GitHub:** [github.com/jhughes266](https://github.com/jhughes266)
+
+---
 ## License
 
 All repositories linked in this portfolio are licensed under the MIT License unless otherwise noted in their respective README files.

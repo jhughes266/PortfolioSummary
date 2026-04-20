@@ -34,7 +34,7 @@ These projects were developed through my research placement at Swinburne Univers
 | Project | Summary                                                                                                                 |
 |--------|-------------------------------------------------------------------------------------------------------------------------|
 | [Pose Estimation and Calibration](https://github.com/jhughes266/PersonTracker) | Real-time body tracking with MediaPipe and OpenCV. Outputs velocity, angle, quadrant, and position using only a webcam. |
-| [Template Tracker with Serial Output](https://github.com/jhughes266/TemplateTracker) | Tracks physical templates via webcam and streams positional data over a serial interface. Supports thresholding.        |
+| [Template Tracker with Serial Output](https://github.com/jhughes266/TemplateTracking.git) | Tracks physical templates via webcam and streams positional data over a serial interface. Supports thresholding.        |
 
 ---
 

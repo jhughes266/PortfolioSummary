@@ -23,7 +23,7 @@ These repositories contain neural networks and deep learning systems built entir
 | [Regularization (L1 vs L2)](https://github.com/jhughes266/Regularization) | Visualizes weight matrices to demonstrate how L1 and L2 shape model learning. |
 | [RNN & LSTM Experiments](https://github.com/jhughes266/RNN-LSTM) | Walks through the building blocks of recurrent architectures, trained on time-based synthetic tasks. |
 | [Fully Connected Net](https://github.com/jhughes266/FullyConnected) | Builds a two-layer network and applies full backprop with TensorFlow-assisted MNIST loading. |
-| [Transformer in Excel](https://github.com/jhughes266/Transformer-Excel) | Highly detailed numerical breakdown of a 2-layer transformer implemented in Microsoft Excel. Focuses on teaching the forward/backward pass and parameter updates visually. |
+| [Transformer in Excel](https://github.com/jhughes266/ExcelTransformer.git) | Highly detailed numerical breakdown of a 2-layer transformer implemented in Microsoft Excel. Focuses on teaching the forward/backward pass and parameter updates visually. |
 
 ---
 
